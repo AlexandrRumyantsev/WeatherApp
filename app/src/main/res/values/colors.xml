@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="rainBg">#566081</color>
+    <color name="rainBgRW">#3D4359</color>
+    <color name="rainBgCard">#656C81</color>
+    <color name="sunnyBg">#5FADFF</color>
+    <color name="sunnyBgCard">#83BEFB</color>
+    <color name="sunnyBgRW">#366CA3</color>
+
+</resources>
